@@ -6,4 +6,4 @@
 
 #pull&request
 
-dev
+bug発生したので修正
